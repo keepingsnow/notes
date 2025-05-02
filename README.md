@@ -11,6 +11,8 @@
 
 These are notes I recorded for learning
 
+###note for git
+
 </header>
 
 <!--
