@@ -11,7 +11,7 @@
 
 These are notes I recorded for learning
 
-###note for git
+### note for git
 
 </header>
 
